@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-==Favorite Movies/Series==
+**Favorite Movies/Series**
 
 1. Avatar
   - The last air bender
